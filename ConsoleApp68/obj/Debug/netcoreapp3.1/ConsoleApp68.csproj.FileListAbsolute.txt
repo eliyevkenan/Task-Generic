@@ -1,0 +1,5 @@
+C:\Users\HP\source\repos\ConsoleApp68\ConsoleApp68\obj\Debug\netcoreapp3.1\ConsoleApp68.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ConsoleApp68\ConsoleApp68\obj\Debug\netcoreapp3.1\ConsoleApp68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ConsoleApp68\ConsoleApp68\obj\Debug\netcoreapp3.1\ConsoleApp68.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConsoleApp68\ConsoleApp68\obj\Debug\netcoreapp3.1\ConsoleApp68.AssemblyInfo.cs
+C:\Users\HP\source\repos\ConsoleApp68\ConsoleApp68\obj\Debug\netcoreapp3.1\ConsoleApp68.csproj.CoreCompileInputs.cache
